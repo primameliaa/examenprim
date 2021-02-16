@@ -1,0 +1,51 @@
+header{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+body{
+    background-color: lightsalmon;
+}
+
+.bitcoin{
+    margin-left: 70%;
+}
+
+.Ethereum{
+    margin-left: 55%;
+    margin-bottom: -15%;
+
+}
+
+.ethereumfoto{
+    margin-left: 60%;
+    margin-top: 15%;
+}
+
+.Litecoin{
+
+    margin-left: 25%;
+
+}
+
+.ethereumespacio{
+    background-color: ivory;
+}
+
+.litecoinfoto{
+    margin-left: 30%;
+}
+
+.bitcoinfoto{
+    margin-left: 75%;
+}
+
+footer{
+
+background-color: yellow;
+text-align: center;
+}
+.nombredesa{
+    color: red;
+}
